@@ -1,6 +1,6 @@
 ### 📊 Business Insights 360 – Brick & Mortar + E-commerce Sales Analysis  
 **Power BI | SQL | Excel | DAX Studio**  
-📅 **February 2024**
+📅 **February 2025**
 
 ## 🔍 Project Overview
 
